@@ -1,27 +1,54 @@
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" width="100%"/>
+<br><br>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h1 align="center">Hi 👋, I'm Bharani S</h1>
+<h1 align="center">Hi , It's Me Bharani
+  
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="50">
+</h1>
 <h3 align="center">🚀 Student | Aspiring Web & Salesforce Developer | Tech Explorer</h3>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML" style="background-color: white; padding: 5px; margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS" style="background-color: white; padding: 5px; margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" style="background-color: white; padding: 5px; margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java" style="background-color: white; padding: 5px; margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" style="background-color: white; padding: 5px; margin-right: 30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code" style="background-color: white; padding: 5px; margin-right: 30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="50" alt="Salesforce" style="background-color: white; padding: 5px;" />
+  <img src="https://trailhead.salesforce.com/android-chrome-192x192.png" width="50" alt="Trailhead" style="background-color: white; padding: 5px; margin-right: 30px;" />
+
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### 💡 About Me
 
-- 🎓 I'm a passionate **student** diving deep into the world of **web development** and **Salesforce**.
-- 🤖 Interested in **AI**, **Web Technologies**, and becoming a skilled **Salesforce Developer**.
-- 🌱 Currently learning: **Full-stack web development** and **Salesforce CRM**.
-- 💬 Ask me about: **HTML**, **CSS**, **JavaScript**, **Java**, **Python**, and **Salesforce**.
-- 📫 How to reach me:
-  - 📧 Email: [1210bharani@gmail.com](mailto:1210bharani@gmail.com)
-  - 💼 LinkedIn: [S Bharani](https://www.linkedin.com/in/s-bharani/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
----
+
+
+
+
+<h2 align="center">✨ About Me</h2>
+
+<table align="center">
+  <tr>
+    <td width="60%">
+      <p align="left">
+        <em>👋 Hey there! I’m <strong>Bharani S</strong>, a passionate learner and aspiring developer.</em><br/><br/>
+        🎓 <strong>B.Tech in AI & Data Science</strong> at <em>Nandha Engineering College</em><br/>
+        💡 I’m enthusiastic about <strong>Web Development</strong>, <strong>Salesforce CRM</strong>, and exploring <strong>AI</strong>.<br/>
+        🧠 Constantly learning and building skills in: HTML, CSS, JavaScript, Python, Java & Salesforce.<br/>
+        🌱 Currently diving deep into full-stack web development & Salesforce customization.<br/>
+        📫 Reach out: <a href="mailto:1210bharani@gmail.com">1210bharani@gmail.com</a> | <a href="https://www.linkedin.com/in/s-bharani/">LinkedIn</a>
+      </p>
+    </td>
+    <td align="center" width="40%">
+      <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### 🛠️ Tech Stack
 
@@ -32,24 +59,56 @@
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ### 🌍 Domains of Interest
-
-- 🌐 Web Development  
-- ☁️ Salesforce CRM & Apex  
-- 🤖 Artificial Intelligence  
-
----
-
-### 📈 GitHub Stats
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="100%">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BHARANI-18&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHARANI-18&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://img.icons8.com/fluency/48/domain.png" width="30"/> &nbsp;&nbsp;
+  <strong>Web Development</strong> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/javascript.png" width="30"/> 
+  <img src="https://img.icons8.com/color/48/react-native.png" width="30"/> 
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" width="30"/> 
+  <img src="https://img.icons8.com/color/48/css3.png" width="30"/> 
 </p>
 
----
+<p align="center">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="30" alt="Salesforce" style="background-color: white; padding: 5px;" />
+  <strong>Salesforce CRM & Apex</strong> &nbsp;&nbsp;
+  <img bg-color="white"; src="https://img.icons8.com/color/48/salesforce.png" width="30"/>
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="30"/> &nbsp;&nbsp;
+  <strong>Artificial Intelligence</strong> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/python.png" width="30"/> 
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=BHARANI-18&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+</p>
+
+<p align="center">
+
+<p align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=BHARANI-18&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<!-- GitHub Contribution Snake (requires setup) -->
+<!-- Uncomment below line after setting up the snake GitHub Action -->
+<!-- ![GitHub Snake](https://github.com/BHARANI-18/BHARANI-18/blob/output/github-contribution-grid-snake.svg) -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ### 🔗 Connect with Me
 
@@ -62,6 +121,7 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ⭐️ *Thanks for visiting! Feel free to check out my repositories and follow for more updates.*
