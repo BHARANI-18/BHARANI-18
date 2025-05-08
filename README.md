@@ -24,7 +24,28 @@
 
 
 
-
+<pre style="width: 100%; word-wrap: break-word; white-space: pre-wrap;">
+████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
+████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
+████████████████████████████████▀  ¿▓▓▓▓▓▓▓▓▄/ "████████████  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
+██████████████████████████████▀.  ▓▓▓▓▓▓▓▓▓▓▓▓   ▐██████████  ██║  ██║███████╗███████╗███████╗╚██████╔╝
+██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓  ` ██████████  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝
+██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓   ▄██████████
+▀██████████████████████████████▌  ▀▀▓▓▓▓▓▓▓▌╓╖. ████████████  ███╗   ██╗██╗ ██████╗███████╗  ████████╗ ██████╗
+█▄▀██████████████████████████████▄ ╩╦╙▀▀▀▀▀ ╣`,█████████████  ████╗  ██║██║██╔════╝██╔════╝  ╚══██╔══╝██╔═══██╗
+▄▀█▄╙█████████████████████▀▀▀▀█████▄▄ .... ,▄███████▀███████  ██╔██╗ ██║██║██║     █████╗       ██║   ██║   ██║
+██▄▀█▄╙█████████████████▀  ╪╢%╦══~╓,└ ╚▒▒▒ ╙▀|,╓╓═╤H   ▀████  ██║╚██╗██║██║██║     ██╔══╝       ██║   ██║   ██║
+█▀▀▀-▀█▌▄▀█████████████   ║▒▒▒▒▒▒▒▒▒▒╢╦ ╘ -╣▒▒▒▒▒▒▒▒▒╢╕   ▀█  ██║ ╚████║██║╚██████╗███████╗     ██║   ╚██████╔╝
+██▄▀██└║▄▄▄████████████▄          ═╕╕╕╕╕═╕═══════       ▄▄▄▄  ╚═╝  ╚═══╝╚═╝ ╚═════╝╚══════╝     ╚═╝    ╚═════╝
+████▄▀█▌║███  ████████▌         ╕   ╩▒▒▒▒▒▒▒▒▒Ñ          ███
+██████▌Ö▓▌   ▀██████████`╔▒▒╣ █ ▒▒m   ╚▒╢▒▒▒╩ -╣▒ ▌ ▒▒▒ ████  ███╗   ███╗███████╗███████╗████████╗  ██╗   ██╗ ██████╗ ██╗   ██╗
+████ -"" ∞╙,▀.╙▀███████╜ ▒▒▒ ▄█ Ñ   -   S.  ═▒▒▒▒ █ ║▒▒╕└███  ████╗ ████║██╔════╝██╔════╝╚══██╔══╝  ╚██╗ ██╔╝██╔═══██╗██║   ██║
+████████▄ -«   ∞▄.▀",╓═     ╒██   ═╣▒▒ `Ñ╛        █▌ ▒▒▒ ███  ██╔████╔██║█████╗  █████╗     ██║      ╚████╔╝ ██║   ██║██║   ██║
+█████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
+█████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
+▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
+</pre>
 
 
 
@@ -65,30 +86,58 @@
 ### 🌍 Domains of Interest
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="100%">
 
-<p align="center">
-  <img src="https://img.icons8.com/fluency/48/domain.png" width="30"/> &nbsp;&nbsp;
-  <strong>Web Development</strong> &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/javascript.png" width="30"/> 
-  <img src="https://img.icons8.com/color/48/react-native.png" width="30"/> 
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" width="30"/> 
-  <img src="https://img.icons8.com/color/48/css3.png" width="30"/> 
-</p>
+<h2 align="center">🌟 Domains of Interest</h2>
 
-<p align="center">
+<div align="center">
+
+  <!-- Web Development -->
+  <p>
+    <img src="https://img.icons8.com/ios-filled/50/web-design.png" width="30" style="background-color: white;" /> &nbsp;
+    <strong>Web Development</strong><br/>
+    <img src="https://img.icons8.com/color/48/html-5--v1.png" width="30" style="background-color: white;" /> 
+    <img src="https://img.icons8.com/color/48/css3.png" width="30" style="background-color: white;" /> 
+    <img src="https://img.icons8.com/color/48/javascript--v1.png" width="30" style="background-color: white;" /> 
+    <img src="https://img.icons8.com/color/48/react-native.png" width="30" style="background-color: white;" /> 
+    <img src="https://img.icons8.com/color/48/bootstrap.png" width="30" style="background-color: white;" /> 
+  </p>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="30" alt="Salesforce" style="background-color: white; padding: 5px;" />
-  <strong>Salesforce CRM & Apex</strong> &nbsp;&nbsp;
-  <img bg-color="white"; src="https://img.icons8.com/color/48/salesforce.png" width="30"/>
-</p>
+  <br/>
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="30"/> &nbsp;&nbsp;
-  <strong>Artificial Intelligence</strong> &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/python.png" width="30"/> 
-</p>
+  <!-- Salesforce CRM -->
+  <p>
+    <img src="https://img.icons8.com/ios/50/salesforce.png" width="30" style="background-color: white;" /> &nbsp;
+    <strong>Salesforce CRM & Apex</strong><br/>
+    <img src="https://img.icons8.com/fluency/48/salesforce.png" width="30" style="background-color: white;" />
+    <img src="https://img.icons8.com/ios/50/brainstorming.png" width="30" style="background-color: white;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Trailhead_logo.png" width="30" style="background-color: white;" />
+  </p>
+  
+  <br/>
+
+  <!-- Artificial Intelligence -->
+  <p>
+    <img src="https://img.icons8.com/ios/50/artificial-intelligence.png" width="30" style="background-color: white;" /> &nbsp;
+    <strong>Artificial Intelligence</strong><br/>
+    <img src="https://img.icons8.com/color/48/python.png" width="30" style="background-color: white;" />
+    <img src="https://img.icons8.com/ios/50/brainstorm-skill.png" width="30" style="background-color: white;" />
+    <img src="https://img.icons8.com/ios/50/robot.png" width="30" style="background-color: white;" />
+    <img src="https://img.icons8.com/ios/50/neural-network.png" width="30" style="background-color: white;" />
+  </p>
+
+</div>
+
+
+
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+
+
+
+
+
+  
 ## 📊 GitHub Stats
 
 <p align="center">
